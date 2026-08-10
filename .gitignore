@@ -3,3 +3,6 @@
 
 # Data
 **/data/**
+
+# PyCache
+**/__pycache__/**
